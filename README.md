@@ -62,9 +62,9 @@ The core implementation is in:
 
 ---
 
-## 📚 Citation
+##  📚 Citation
 
-If you use the dataset or want to cite the original harmonization dataset used in this project, please refer to the following paper:
+
 @inproceedings{niu2023,
 title={ccHarmony: Color-Checker Guided Illumination Estimation for Image Harmonization},
 author={Niu, Yuge and Zhou, Hong and Huang, Xinxin and Deng, Cheng and Ding, Xuan and Yao, Wei and Dong, Xiaopeng},

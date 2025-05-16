@@ -60,6 +60,7 @@ The core implementation is in:
 ```bash
 📘 MasterClass_final.ipynb
 
+
 ---
 
 ##  📚 Citation
@@ -75,4 +76,4 @@ pages={6481--6491}
 
 🔗 Dataset GitHub: [https://github.com/bcmi/Image-Harmonization-Dataset-ccHarmony](https://github.com/bcmi/Image-Harmonization-Dataset-ccHarmony)
 
-
+---

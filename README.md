@@ -59,3 +59,20 @@ The core implementation is in:
 
 ```bash
 📘 MasterClass_final.ipynb
+
+---
+
+## 📚 Citation
+
+If you use the dataset or want to cite the original harmonization dataset used in this project, please refer to the following paper:
+@inproceedings{niu2023,
+title={ccHarmony: Color-Checker Guided Illumination Estimation for Image Harmonization},
+author={Niu, Yuge and Zhou, Hong and Huang, Xinxin and Deng, Cheng and Ding, Xuan and Yao, Wei and Dong, Xiaopeng},
+booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+year={2023},
+pages={6481--6491}
+}
+
+🔗 Dataset GitHub: [https://github.com/bcmi/Image-Harmonization-Dataset-ccHarmony](https://github.com/bcmi/Image-Harmonization-Dataset-ccHarmony)
+
+
